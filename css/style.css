@@ -173,15 +173,6 @@ header nav .button:hover{
 /* Header code */
 
 
-/*Informatie code*/
-.Informatie{
-    font-size: 25px;
-    padding: 100px;
-    font-family: 'Roboto Condensed', sans-serif;
-}
-
-/*Informatie code*/ 
-
 
 /* Code artikelen*/
 
@@ -277,6 +268,7 @@ header nav .button:hover{
     font-size: 70%;
     font-weight: 400;
     line-height: 1.5;
+    font-size: 14px;
 }
 
 .modal_link{
@@ -469,21 +461,23 @@ header nav .button:hover{
 .container{
     width: 600px;
     height: 400px;
-    position: relative;
     margin: 200px auto;
   }
   .container img{
     width: 600px;
-    height: 400px;
+    height: 150px;
   }
   .text{
-    color: white;
-    font-size: 50px;
+    color: black;
+    font-size: 25px;
     position: absolute;
-    top: 50%;
+    top: 90%;
     left: 50%;
     transform: translate(-50%,-50%);
-    text-shadow: 0 0 10px black;
+  }
+
+  .text-image{
+    font-family: 'Roboto Condensed', sans-serif;
   }
   
 /*Tekst op image*/
