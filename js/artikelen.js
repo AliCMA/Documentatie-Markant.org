@@ -1,4 +1,3 @@
-//1
 
 const sifu = document.getElementById("js--pakket1")
 const switches = document.getElementsByClassName("product")
@@ -20,7 +19,6 @@ closesifu.onclick = function(){
 
 }
 
-//2
 
 
 const legion = document.getElementById("js--pakket2")
@@ -42,7 +40,6 @@ closelegion.onclick = function(){
 
 }
 
-//rocket
 
 const rocket = document.getElementById("js--pakket3")
 rocket.onclick = function(){
@@ -63,7 +60,6 @@ closerocket.onclick = function(){
 
 }
 
-//miles
 
 
 const miles = document.getElementById("js--pakket4")
