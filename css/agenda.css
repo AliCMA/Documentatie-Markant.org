@@ -1,4 +1,8 @@
-  
+html{
+  font-family: 'Roboto', sans-serif;
+}
+
+
 /* Agenda code*/
   
   .agenda {
@@ -18,12 +22,12 @@
   .agenda__article {
     width: 80rem;
     height: 35rem;
-    background: #B5CFD8;
+    background: #009eba;
     margin-bottom: 5rem;
     box-shadow: rgba(0, 0, 0, 0.24) 0 0.3rem 0.8rem;
   }
   .agenda__article--img {
-    width: 12rem;
+    width: 107rem;
     height: 12rem;
     margin-top: 2rem;
     margin-left: 2rem;
@@ -31,7 +35,7 @@
   }
   .agenda__h2 {
     padding: 4rem;
-    margin-left: 6rem;
+    margin-left: 20rem;
     width: 100%;
   }
   .agenda__div {
