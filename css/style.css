@@ -465,7 +465,7 @@ header nav .button:hover{
   }
   .container img{
     width: 600px;
-    height: 150px;
+    height: 300px;
   }
   .text{
     color: black;
@@ -478,6 +478,7 @@ header nav .button:hover{
 
   .text-image{
     font-family: 'Roboto Condensed', sans-serif;
+    height:60px;
   }
   
 /*Tekst op image*/
