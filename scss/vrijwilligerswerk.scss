@@ -1,0 +1,140 @@
+html{
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  
+  /* vrijwilligerswerk code*/
+    
+    .agenda {
+      background: #E8ECF1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      gap: 5rem;
+      padding-top: 3rem;
+    }
+    .agenda__img {
+      width: 130rem;
+      height: 60rem;
+      object-fit: cover;
+    }
+    .agenda__article {
+      width: 80rem;
+      height: 35rem;
+      background: #009eba;
+      margin-bottom: 5rem;
+      box-shadow: rgba(0, 0, 0, 0.24) 0 0.3rem 0.8rem;
+    }
+    .agenda__article--img {
+      width: 107rem;
+      height: 12rem;
+      margin-top: 2rem;
+      margin-left: 2rem;
+      object-fit: cover;
+    }
+    .agenda__h2 {
+      padding: 4rem;
+      margin-left: 20rem;
+      width: 100%;
+      color: white;
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+    .agenda__div {
+      display: flex;
+      flex-direction: row;
+    }
+    .agenda__p {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 4rem;
+      color: white;
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+    /* vrijwilligerswerk code*/
+  
+  
+  
+  /* Header code */
+  *{
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      text-decoration: none;
+  }
+  
+  header{
+      width: 100vw;
+      height: 100px;
+      border-bottom: solid 1px #eee;
+      font-family: 'Poppins';
+  }
+  
+  header .inner{
+      width: 1300px; 
+      height: 100%;
+      display: block;
+      margin: 0 auto;
+  }
+  
+  header .logo{
+      display: table;
+      height: 100%;
+      float: left;
+  }
+  
+  header .logo div{
+      height: 100%;
+      display: table-cell;
+      vertical-align: middle;
+  }
+  
+  header .logo img{
+      height: 50px;
+      margin-top: 5px;
+      width: 182px;
+      height: 87px;
+  }
+  
+  header nav{
+      float: right;
+      height: 100%;
+      font-size: 17px;
+  }
+  
+  header nav li{
+      display: table;
+      height: 100%;
+      float: left;
+      margin-right: 30px;
+  }
+  
+  header nav li:last-of-type{
+      margin-right: 0;
+  }
+  
+  header nav span {
+      display: table-cell;
+      vertical-align: middle;
+      width: 84px;
+  }
+  
+  header nav a{
+      color: #101010;
+  }
+  
+  header nav .button{
+      background-color: #1ab26b; 
+      color: #FFF;
+      padding: 10px 20px;
+      border-radius: 4px;
+  }
+  
+  header nav .button:hover{
+      filter: brightness(1.05);
+  }   
+  
+  /*Header code */
+    
+    

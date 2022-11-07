@@ -37,6 +37,8 @@ html{
     padding: 4rem;
     margin-left: 20rem;
     width: 100%;
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
   }
   .agenda__div {
     display: flex;
@@ -47,6 +49,8 @@ html{
     align-items: center;
     justify-content: center;
     padding: 4rem;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
   }
 
   /* Agenda code*/
