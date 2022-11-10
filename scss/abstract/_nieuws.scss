@@ -5,7 +5,7 @@ html{
 
 /* Agenda code*/
   
-  .agenda {
+  .nieuws {
     background: #E8ECF1;
     display: flex;
     justify-content: center;
@@ -19,32 +19,32 @@ html{
     height: 60rem;
     object-fit: cover;
   }
-  .agenda__article {
+  .nieuws__article {
     width: 80rem;
     height: 35rem;
     background: #009eba;
     margin-bottom: 5rem;
     box-shadow: rgba(0, 0, 0, 0.24) 0 0.3rem 0.8rem;
   }
-  .agenda__article--img {
+  .nieuws__article--img {
     width: 107rem;
     height: 12rem;
     margin-top: 2rem;
     margin-left: 2rem;
     object-fit: cover;
   }
-  .agenda__h2 {
+  .nieuws__h2 {
     padding: 4rem;
     margin-left: 20rem;
     width: 100%;
-    color:white;
+    color: white;
     font-family: 'Roboto Condensed', sans-serif;
   }
   .agenda__div {
     display: flex;
     flex-direction: row;
   }
-  .agenda__p {
+  .nieuws__p {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -126,7 +126,7 @@ header nav a{
 }
 
 header nav .button{
-    background-color: #009eba; 
+    background-color: #1ab26b; 
     color: #FFF;
     padding: 10px 20px;
     border-radius: 4px;

@@ -5,7 +5,7 @@ html{
 
 /* Agenda code*/
   
-  .agenda {
+  .vrijwilliger {
     background: #E8ECF1;
     display: flex;
     justify-content: center;
@@ -19,7 +19,7 @@ html{
     height: 60rem;
     object-fit: cover;
   }
-  .agenda__article {
+  .vrijwilliger__article {
     width: 80rem;
     height: 35rem;
     background: #009eba;
@@ -33,18 +33,18 @@ html{
     margin-left: 2rem;
     object-fit: cover;
   }
-  .agenda__h2 {
+  .vrijwilliger__h2 {
     padding: 4rem;
     margin-left: 20rem;
     width: 100%;
-    color:white;
+    color: white;
     font-family: 'Roboto Condensed', sans-serif;
   }
-  .agenda__div {
+  .vrijwilliger__div {
     display: flex;
     flex-direction: row;
   }
-  .agenda__p {
+  .vrijwilliger__p {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -126,7 +126,7 @@ header nav a{
 }
 
 header nav .button{
-    background-color: #009eba; 
+    background-color: #1ab26b; 
     color: #FFF;
     padding: 10px 20px;
     border-radius: 4px;
